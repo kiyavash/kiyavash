@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kiyavash
-- 👀 I’m interested in Programing,Data Science and WebDevelopment
+- 👋 Hi, I’m Kiyavash
+- 👀 I’m interested in Programing, WebDevelopment and Data Science.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me : shahrokhazimi73@gmail.com
