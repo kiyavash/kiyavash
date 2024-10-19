@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Kiyavash
-- 👀 I’m interested in Programing, WebDevelopment.
-- 💞️ I’m looking to collaborate on JavaScript and Vue.js Projects
-- 📫 How to reach me : kiyavashazimifar@gmail.com
-
-<!---
-kiyavash/kiyavash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Self-taught front-end web developer with four years of experience, turning a long-time programming hobby into a professional career. Skilled in building responsive and user-friendly web applications using Vue and Nuxt.js, with additional knowledge in React. Passionate about learning new technologies and continuously improving skills. Known for a problem-solving mindset, attention to detail, and a drive to deliver seamless user experiences. Eager to bring creativity and a growth-oriented approach to a dynamic development team.
